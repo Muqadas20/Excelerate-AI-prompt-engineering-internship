@@ -48,4 +48,4 @@ Only work that I am authorized to share will be published here. Confidential inf
 
 ---
 
-*Maintained as a learning and professional portfolio by [Muqadas].*
+Maintained as a learning and professional portfolio.
